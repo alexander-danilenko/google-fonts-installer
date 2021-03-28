@@ -2,7 +2,7 @@
   <img src="https://www.gstatic.com/images/icons/material/apps/fonts/1x/catalog/v5/opengraph_color.png" />
 </p>
 
-# Ubuntu Google Fonts Installer
+# Google Fonts Installer
 
 This micro-script installs all [Google Fonts](https://github.com/google/fonts) to any Ubuntu system.
 
@@ -11,5 +11,5 @@ This micro-script installs all [Google Fonts](https://github.com/google/fonts) t
 For the quick and easy installation of all Google Fonts to `~/.fonts` directory use the following command:
 
 ```bash
-curl -s https://raw.githubusercontent.com/alexander-danilenko/ubuntu-google-fonts-installer/main/install.sh | bash
+curl -s https://raw.githubusercontent.com/alexander-danilenko/google-fonts-installer/main/install.sh | bash
 ```
