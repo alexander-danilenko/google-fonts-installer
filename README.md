@@ -1,8 +1,10 @@
-<p style="text-align: center;">
-  <img src="https://www.gstatic.com/images/icons/material/apps/fonts/1x/catalog/v5/opengraph_color.png" />
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Google_Fonts_logo.svg" width="300" />
 </p>
 
-# Google Fonts Installer
+<h1 align="center">
+Google Fonts Installer
+</h1>
 
 This micro-script installs all [Google Fonts](https://github.com/google/fonts) to any Ubuntu system.
 
